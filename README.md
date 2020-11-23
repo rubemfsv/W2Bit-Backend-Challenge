@@ -40,7 +40,6 @@ Você foi contratado para fazer um sistema para donos de frotas de ônibus, onde
   
 * O cadastro do usuário deve ter os seguintes campos:
   * Nome
-  * Empresa
   * Foto
   * Estado e cidade
   * Senha
